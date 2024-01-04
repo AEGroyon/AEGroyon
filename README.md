@@ -60,3 +60,17 @@ My dream? To become a talented Illustrator and an exceptional Game Developer. I'
 - **Example:** 
   ```bash
   git push origin main
+### 6. `git status`
+
+- **When to Use:** Show the working tree status. Displays the state of the working directory and the staging area.
+- **Parameters:** None required.
+- **Example:**
+  ```bash
+  git status
+### 7. `git branch`
+
+- **When to Use:** List, create, or delete branches. Also, show the current branch.
+- **Parameters:** '-a' flag to show all branches.
+- **Example:**
+  ```bash
+  git branch -a
